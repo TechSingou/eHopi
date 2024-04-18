@@ -13,8 +13,7 @@ public class SecurityRestController {
 
     @GetMapping("/profile")
     public Authentication authentication(Authentication authentication) {
-        //Principal authentication = SecurityContextHolder.getContext().getAuthentication();
-
+        //Principal authentication = SecurityContextHolder.getContext().getAuthentication()
         return  authentication;
     }
 }
