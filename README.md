@@ -1,10 +1,6 @@
 # eHopi
 
-eHopi est une simple application de gestion de patients avec un système d'authentification 
-
-## Quelques captures
-Quelques sont disponibles sont disponibles dans le dossier Captures
-
+eHopi est une simple application de gestion de patients avec un système d'authentification
 
 ## Technologies
 
